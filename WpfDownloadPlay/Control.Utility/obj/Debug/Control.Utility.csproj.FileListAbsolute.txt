@@ -1,0 +1,6 @@
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\obj\Debug\Control.Utility.csproj.CoreCompileInputs.cache
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\bin\Debug\Control.Utility.dll
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\bin\Debug\Control.Utility.pdb
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\obj\Debug\Control.Utility.dll
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\obj\Debug\Control.Utility.pdb
+D:\WindowsFormTest\WpfDownloadPlay\Control.Utility\obj\Debug\Control.Utility.csprojAssemblyReference.cache
